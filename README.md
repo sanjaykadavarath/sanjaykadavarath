@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjaykadavarath
-- 👀 I’m interested in DevOps and Automation 
+- 👀 I’m interested in DevOps and Cloud Automation 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on projects related to DevOps and AIOps
 - 📫 How to reach me
