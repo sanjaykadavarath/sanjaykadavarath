@@ -5,7 +5,7 @@
 - 📫 How to reach me
   sanjaykadavarath@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: everything is fun if you only have interest in it.
+- ⚡ Fun fact: everything is fun if you have interest in it.
 
 <!---
 sanjaykadavarath/sanjaykadavarath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
