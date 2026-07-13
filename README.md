@@ -6,6 +6,8 @@
 
 *I break things on purpose so they don't break in production.*
 
+<img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate_(AZ--104)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Keeping+things+alive+at+99.99%25+uptime;Shifting+security+left;Automating+all+the+things;Chasing+those+extra+nines;Infrastructure+as+Code%2C+always;kubectl+get+pods+--all-namespaces)](https://git.io/typing-svg)
 
 </div>
@@ -22,14 +24,13 @@
 - Open to collaborating on DevSecOps, SRE tooling, and cloud automation projects
 - Reach me at **sanjaykadavarath@gmail.com**
 - Freelance inquiries: **reachout4sanjay@gmail.com** — let's build something cool together
-- When I'm not keeping servers alive, I'm out touring on my **green Dominar 400** — different kind of throttle, same love for the ride
 
 ---
 
 ## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,git,github,maven,nginx,kafka,prometheus,grafana,elasticsearch,linux,bash,python,go,js,java,vscode,burpsuite&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes,jenkins,githubactions,git,github,maven,nginx,kafka,prometheus,grafana,elasticsearch,linux,bash,python,go,js,java,burpsuite&theme=dark&perline=8" />
 </p>
 
 <p align="center">
@@ -41,10 +42,17 @@
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Site24x7-1F996F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cursor-181717?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=white"/>
 </p>
 
 ---
